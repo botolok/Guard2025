@@ -1,0 +1,10 @@
+{
+  "name": "my-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "appId": "com.example.guard",
+  "appName": "Guard",
+  "webDir": "www"
+}
